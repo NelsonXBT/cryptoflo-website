@@ -14,16 +14,18 @@ img {
     max-width: 100%;
 }
 
+header {
+    margin: 0;
+}
 /* HEADER SECTION */
 
 .header-img {
-     background-image: url('./../assets/bg.png'); 
+      background-image: url('./../assets/bg.png'); 
     background-size: cover;
-    background-position: center;
+    /*background-position: center;
     height: 10rem;
-    width: 20rem;
-     /* color: white;
-      display: flex;
+    width: 22rem;
+     display: flex;
     align-items: center; 
      justify-content: center;  */
   }  
@@ -32,42 +34,53 @@ header h1 {
     font-size: 2.5rem;
     text-align: right;
     /* margin-top: 5rem; */
-    padding: 8rem 0 0 0;
+    padding: 12rem 2rem 0 0;
 }
 
 header p {
     font-size: 0.8rem;
     text-align: right;
-    padding: 3rem 1.4rem 0 0;
+    padding: 3.5rem 3.5rem 0 0;
     margin-top: -4.5rem;
 }
 
 .hero-title {
     font-size: 1.4rem;
-    padding: 5rem 0 0 0 ;
+    padding: 3rem 0 0 0 ;
 }
 
 .hero-info {
-    font-size: 1rem;
+    font-size: 0.7rem;
     font-style: oblique;
-    margin-top: -1.3rem;
+    margin-top: 1rem;
 }
 
 .hero-image {
+
     display: flex;
+  justify-content: center; /* center horizontally */
+  gap: 0rem; /* space between buttons */
+  margin-top: 20px;
+  padding: 1rem;
+  
+    /* display: flex;
     justify-content: center;
     width: 10rem;
     display: block;
-    margin: auto;
+    margin: auto; */
 }
 .hero-image2 {
-    margin-top: -2rem;
+    /* margin-top: -2rem; */
+    
     
 }
 
 
 
 .cryptoflo-app-img {
-    width: 26rem;
-    margin: -10 0 0 -8rem;
+    width: 15.5rem;
+  height: 10rem;
+  margin-left: 2rem;
+  
+  
 }
