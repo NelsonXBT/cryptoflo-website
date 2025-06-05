@@ -109,11 +109,18 @@ header p {
   border: none;
   border-radius: 0.6rem;
   font-size: 1rem;
-  font-weight: 300px;
   cursor: pointer;
   text-align: center;
 }
 
 .purple-btn:hover {
   background-color: #221146; /* Slightly lighter on hover */
+}
+
+.footer {
+    background-color: #1c0c30;
+    font-size: 0.7rem;
+    color: white;
+    margin: 2rem 0 0 0;
+    padding: 0.5rem 3rem;
 }
