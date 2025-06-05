@@ -32,10 +32,10 @@ header {
 
 /* header h1 {
     font-size: 2.5rem;
-    /* text-align: right; */
-    /* margin-top: 5rem; */
-    padding: 12rem 2rem 0 0; */
-}
+    text-align: right;
+    margin-top: 5rem; 
+    padding: 12rem 2rem 0 0; 
+}*/
 
 header p {
     font-size: 0.8rem;
@@ -73,7 +73,7 @@ header p {
 
 
 .cryptoflo-app-img {
-    width: 20.5rem;
+    width: .5rem;
   height: 10rem;
   margin-left: 2rem;
   
