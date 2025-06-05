@@ -82,3 +82,38 @@ header p {
 .highlight {
     color: #692cb1;
 }
+
+
+.install-ios-section {
+    padding: 1rem;
+}
+.install-ios {
+    font-size: 0.8rem;
+}
+.install-ios-section ul {
+    text-align: left;
+}
+
+.install-ios-title {
+    font-size: 1.2rem;
+    color: #692cb1;
+    text-align: center;
+}
+
+
+
+.button {
+    background-color: #692cb1; /* Fill color */
+  color: white;              /* Text color */
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.6rem;
+  font-size: 1rem;
+  font-weight: 300px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.purple-btn:hover {
+  background-color: #221146; /* Slightly lighter on hover */
+}
