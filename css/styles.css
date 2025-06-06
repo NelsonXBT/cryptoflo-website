@@ -19,16 +19,7 @@ header {
 }
 /* HEADER SECTION */
 
-/* .header-img {
-      background-image: url('./../assets/bg.png'); 
-    background-size: cover;
-    background-position: center;
-     height: 13rem;
-    width: 20.5rem;
-     display: flex;
-    align-items: center; 
-     justify-content: center; 
-  }   */
+
 .nav-logo {
   display: flex;
   /* align-items: center; */
@@ -70,18 +61,7 @@ header p {
   padding: 1rem;
   
 }
-/* .hero-image2 {
-     margin-top: -2rem;
-} */
 
-
-
-/* .cryptoflo-app-img {
-    width: .5rem;
-  height: 10rem;
-  margin-left: 2rem;
-  
-} */
 
 .highlight {
     color: #692cb1;
@@ -95,6 +75,7 @@ header p {
 
 .install-ios-section {
     padding: 1rem;
+    margin: 1rem;
 }
 .install-ios {
     font-size: 0.8rem;
@@ -129,8 +110,6 @@ header p {
     margin: 2rem 0 0 0;
     padding: 0.5rem 3rem;
 }
-
-
 
 
 @media screen and (min-width: 860px) {
@@ -189,7 +168,7 @@ header p {
 }
 
 .install-ios-section {
-    margin: 10rem 0 0 0;
+    margin-top: 10rem;
     padding: 1rem;
 }
 
